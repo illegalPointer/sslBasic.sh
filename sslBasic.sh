@@ -10,7 +10,6 @@ RED='\033[1;31m'
 TESTSSL=""
 SSLENUM=""
 
-
 HOME="$(echo ~)"
 
 ARGS=3
